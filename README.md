@@ -1,4 +1,4 @@
-# chromePlugin
+# chromePluginYoutubeBlock
 youtube browser block
 This is a hobby project and I will work on this at will
 Basic idea
